@@ -107,7 +107,7 @@ c = (
         title_opts=opts.TitleOpts(title= "Cost Structure"),
         tooltip_opts=opts.TooltipOpts(trigger="item", trigger_on="mousemove"),
     )
-    .render("你好.html")
+    .render("Cost_structure_for_trad.html")
 )
 
 
